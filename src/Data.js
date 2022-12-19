@@ -1,0 +1,31 @@
+export const Data =[{
+    name:"name1",
+    rollnumber:1,
+    qualification:"BE",
+    collegename:"college1",
+},{
+    name:"name2",
+    rollnumber:2,
+    qualification:"BE",
+    collegename:"college2",
+},{
+    name:"name3",
+    rollnumber:3,
+    qualification:"BE",
+    collegename:"college3",
+},{
+    name:"name4",
+    rollnumber:4,
+    qualification:"BE",
+    collegename:"college4",
+},{
+    name:"name5",
+    rollnumber:5,
+    qualification:"BE",
+    collegename:"college5",
+},{
+    name:"name6",
+    rollnumber:6,
+    qualification:"BE",
+    collegename:"college6",
+}] 
